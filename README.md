@@ -2,22 +2,26 @@
 
 > One sentence on what this project does and who it helps.
 
-**Team:** Name 1, Name 2, Name 3
+**Team:** HRK(Hugh, Kaitlyn, Ryan)
 **Status:** Idea / Prototype / Testing / Done
+Need to Build and Print
 
 ## The problem
 
 What problem are you solving? Who has this problem? Why does it matter?
+Hand Raiser for disabled school kids.
 
 ## Our solution
 
 How does your project solve it? Add a photo or render of your prototype if you have one:
+We solve it by building an externally controlled "hand raiser," which is essentially a light.
 
 ![Prototype photo](docs/prototype.jpg)
 
 ## How it works
 
 Explain the main parts and how they fit together. For example: the sensor reads X, the microcontroller decides Y, the motor does Z.
+Microchip inside with light attached that is connected to a computer through USB access. The computer has control over the light. 
 
 ## Repository layout
 
